@@ -31,7 +31,7 @@ train <- cbind(subject_train, y_train, X_train)
 
 # Merge the test and train data sets
 
-dataset <-rbind(train, test)
+dataset <- rbind(test, train)
 
 # Merge the data set with activities table to get the activity name column and drop the activity_id column
   

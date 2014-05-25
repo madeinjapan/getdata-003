@@ -1,10 +1,11 @@
 # Getting and Cleaning Data Course Project
 
-This is a Course Project for Getting and Cleaning Data course by by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD.
+This is a Course Project for Getting and Cleaning Data course by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD.
 
 The project consists of two files:
 
 *CodeBook.md* — describes the variables, the data, and any transformations and work that was performed to clean up the data.
+
 *run_analysis.R* — script that performs the following analysis:
 
 1. Merges the training and the test sets to create one data set.

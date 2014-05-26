@@ -19,3 +19,5 @@ The project consists of two files:
 1. Check-out the run_analysis.R
 2. Start the R environment and set the working dir to the one containing Samsung UCI HAR Dataset using the setwd() function
 3. Run the run_analysis.R source
+
+The script would then produce the tidyDataset.csv file in the working dir containing the tidy dataset described in the code book.
